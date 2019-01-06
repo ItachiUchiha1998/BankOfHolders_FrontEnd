@@ -1,0 +1,6 @@
+{
+  "name": "TrueUSD",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TrueUSD.js"
+}
