@@ -22,12 +22,12 @@
 
 <html>
   <p align="center">
-    <img src='Screenshots/Login Page.png' width='150px' style="margin: 0.5em"/>
-    <img src='Screenshots/Sign Up Page.png' width='150px' style="margin: 0.5em"/>
-    <img src='Screenshots/Home Page.png' width='150px' style="margin: 0.5em"/>
-    <img src='Screenshots/My Wallet Page.png' width='150px' style="margin: 0.5em"/>
-    <img src='Screenshots/Requests Table.png' width='150px' style="margin: 0.5em"/>
-    <img src='Screenshots/Login Page.png' width='150px' style="margin: 0.5em"/>
+    <img src='Screenshots/Login Page.png' width='300em' style="margin: 0.5em"/>
+    <img src='Screenshots/Sign Up Page.png' width='300em' style="margin: 0.5em"/>
+    <img src='Screenshots/Home Page.png' width='300em' style="margin: 0.5em"/>
+    <img src='Screenshots/My Wallet Page.png' width='300em' style="margin: 0.5em"/>
+    <img src='Screenshots/Requests Table.png' width='300em' style="margin: 0.5em"/>
+    <img src='Screenshots/Login Page.png' width='300em' style="margin: 0.5em"/>
 </p>
 
 </html>
