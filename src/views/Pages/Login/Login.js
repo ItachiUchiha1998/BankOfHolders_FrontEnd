@@ -13,10 +13,6 @@ import {AppNavbarBrand} from '@coreui/react';
 import ThemeFloatingLabel from '../../components/ThemeFloatingLabel';
 import ThemeButton from '../../components/ThemeButton';
 
-
-
-
-
 const auth = new AuthService();
 
 class Login extends Component {
