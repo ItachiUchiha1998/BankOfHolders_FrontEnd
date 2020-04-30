@@ -50,7 +50,7 @@
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "match-sorter": "^2.3.0",
     "moment": "^2.23.0",
